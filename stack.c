@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include "stack.h"
-#define N 5
 
 struct stack {
 	int n; //The quantity of elements of the stack
